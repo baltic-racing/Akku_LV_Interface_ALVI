@@ -1,0 +1,27 @@
+
+*.Zip
+*.LOG
+*.drc
+*.html
+*.dwg
+*.stp
+*.PrjPcbStructure
+07 - LV_Board/LV_Board/gerbers/Status Report.Txt
+07 - LV_Board/LV_Board/gerbers/JLC_GERBERS/LV_Board.TXT
+*.RUL
+*.REP
+*.GTS
+*.LDP
+*.GTP
+*.GTL
+*.GTO
+*.GML
+*.GBS
+*.GBP
+*.GBO
+*.GBL
+*.EXTREP
+*.DRR
+*.apr
+*.APR_LIB
+*.SchDocPreview
